@@ -1,7 +1,7 @@
 {
   "name": "my-web-app",
   "version": "0.1.0",
-  "homepage": "https://youlman.github.io/git init",
+  "homepage": "https://youlman.github.io/gallerywebapp",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.5",
@@ -17,6 +17,8 @@
     "web-vitals": "^0.2.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
