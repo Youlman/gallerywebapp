@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/gallerywebapp/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/gallerywebapp/static/js/main.28b289b6.chunk.js",
+    "main.js.map": "/gallerywebapp/static/js/main.28b289b6.chunk.js.map",
+    "runtime-main.js": "/gallerywebapp/static/js/runtime-main.19ff6b82.js",
+    "runtime-main.js.map": "/gallerywebapp/static/js/runtime-main.19ff6b82.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/gallerywebapp/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.3faf25ca.chunk.js": "/gallerywebapp/static/js/2.3faf25ca.chunk.js",
+    "static/js/2.3faf25ca.chunk.js.map": "/gallerywebapp/static/js/2.3faf25ca.chunk.js.map",
+    "static/js/3.9fec8175.chunk.js": "/gallerywebapp/static/js/3.9fec8175.chunk.js",
+    "static/js/3.9fec8175.chunk.js.map": "/gallerywebapp/static/js/3.9fec8175.chunk.js.map",
+    "index.html": "/gallerywebapp/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/gallerywebapp/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/gallerywebapp/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.3faf25ca.chunk.js.LICENSE.txt": "/gallerywebapp/static/js/2.3faf25ca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19ff6b82.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.3faf25ca.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.28b289b6.chunk.js"
+  ]
+}
